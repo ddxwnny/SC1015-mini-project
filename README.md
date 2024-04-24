@@ -4,9 +4,9 @@ We came across a Straits Time article that states that almost 9 in 10 Singaporea
 However, based on United Nation World Happiness Report 2024, Singapore was crowned the happiest country in Asia for the second year in the row and ranked 30th globally. Curious about how we achieved this even with our fast-paced lifestyle and stressful environment, we decided to explore further.
 
 ## contributers
-1. Dawn Yap Shi Min (@ddxwnny) - Problem Statement, Data Cleaning, Exploratory Data Analysis (Univariate Linear Regression)
-2. Ng Yun Fei Aries (@ariessssx) - Exploratory Data Analysis (Multivariate Linear Regression), XGBoost 
-3. Ong Beng Soon (@ongbengsoon) - XGBoost, Tensor Flow
+1. Dawn Yap Shi Min ([@ddxwnny](https://github.com/ddxwnny)) - Problem Statement, Data Cleaning, Exploratory Data Analysis (Univariate Linear Regression)
+2. Ng Yun Fei Aries ([@ariessssx](https://github.com/ariessssx)) - Exploratory Data Analysis (Multivariate Linear Regression), XGBoost 
+3. Ong Beng Soon ([@ongbengsoon](https://github.com/ongbengsoon)) - XGBoost, Tensor Flow
 
 ## Models used
 1. Multivariate Linear Regression
