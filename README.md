@@ -1,4 +1,4 @@
-![image](https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/164142416/c63e58cb-30d9-47f5-9820-7cb9775d471a)# Analysis of happiness index
+# Analysis of happiness index
 We came across a Straits Time article that states that almost 9 in 10 Singaporeans reported feeling stressed in 2023, and 16 per cent said they felt that the stress was "not manageable", according to a new study by a global health firm.
 
 However, based on UN World Happiness Report 2024, Singapore was crowned the happiest country in Asia for the second year in the row and ranked 30th globally. Curious about how we achieved this even with our fast-paced lifestyle and stressful environment, we decided to explore further.
