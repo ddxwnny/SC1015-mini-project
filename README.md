@@ -84,7 +84,7 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 - As predictors vary, the dependent variable changes directionally.
 
 - **Response variable Y:** ```Life Ladder```
-- **[Response variable X:]** ```Log GDP per capita```, ```Social support```, ```Healthy life expectancy at birth```, ```Freedom to make life choices``` and ```Positive affect```
+- **Response variable X:** ```Log GDP per capita```, ```Social support```, ```Healthy life expectancy at birth```, ```Freedom to make life choices``` and ```Positive affect```
 
 - Splitting the Data sets:
     - ```test_size```: 0.2
@@ -98,6 +98,9 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
     - Once trained, we use ```predict()``` to estimate the ```Life Ladder``` variable for both training and testing data
 
 #### Model performance: Training VS Testing
+<img width="274" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/f7dd3fc5-4d19-4f57-942d-320afaa465fd"> <img width="257" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/4f21af75-45d3-4b99-8da8-21716ba0b9bc">
+
+ 
 - The scatter plot shows consistent spread of datas for both training and testing sets
 - This indicates that our model is well-fitted and can generalise well to unseen data
 
