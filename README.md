@@ -178,6 +178,7 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 - Combine a single weak model with other weak models to make a single strong model which allow for more accurate prediction.
 
 **Results:**
+
 <img width="407" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/2e408dc9-2238-4c8a-9a83-facb21a821be">
 <img width="541" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/7699c277-9eb0-4300-b2af-b01791af403e">
 
@@ -191,6 +192,7 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 - **Flow:** Used to define the flow of data in an operation. It has many hidden layers and neurons to facilitate deep learning and is efficient in handling complex computations
 
 **Results:**
+
 <img width="512" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/45e088c9-6a37-4c3c-af52-8df8c743259d">
 <img width="644" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/66010406-563c-4e28-9b50-2ad22f0bb704">
 
