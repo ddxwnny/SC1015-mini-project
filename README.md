@@ -16,10 +16,10 @@ However, based on UN World Happiness Report 2024, Singapore was crowned the happ
 
 ## About the project
 1. [Problem Statement](#problem-statement)
-2. [Data Cleaning] ()
-3. [Exploratory Data Analysis] ()
-4. [Machine Learning] ()
-5. [Conclusion] ()
+2. [Data Cleaning] (#data-cleaning)
+3. [Exploratory Data Analysis] (#exploratory-data-analysis)
+4. [Machine Learning] (#machine-learning)
+5. [Conclusion] (#conclusion)
 
 ## Problem Statement
 - What are the factors that plays the biggest role for happiness?
