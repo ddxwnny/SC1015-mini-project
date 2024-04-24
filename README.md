@@ -27,14 +27,14 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 
 ## Data Cleaning
 1. correcting data type
-   <img width="285" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/c6bbb90a-943f-4014-a8fe-14e7c42553cd">
 
+<img width="285" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/c6bbb90a-943f-4014-a8fe-14e7c42553cd">
 
   - we corrected the data type for ```year``` & changed it from int64 to category
     
 2. replacing NULL values
-   <img width="282" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/7d624f59-75dc-4ccc-9be9-ae17d11d81d4">
 
+<img width="282" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/7d624f59-75dc-4ccc-9be9-ae17d11d81d4">
 
   - we replaced all the NULL values with median values
     - As compared to 'Mean', Median is more likely to preserve the underlying distribution without skewing to the outliers. this also  preserve integrity of data set, where measure of central tendency is crucial
