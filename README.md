@@ -15,7 +15,7 @@ However, based on UN World Happiness Report 2024, Singapore was crowned the happ
 4. Tensor Flow
 
 ## About the project
-1. [Problem Statement](#ProblemStatement)
+1. [Problem Statement](#problem-statement)
 2. [Data Cleaning] ()
 3. [Exploratory Data Analysis] ()
 4. [Machine Learning] ()
