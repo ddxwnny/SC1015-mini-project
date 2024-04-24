@@ -68,7 +68,7 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 - As predictors vary, the dependent variable changes directionally.
 
 - **Response variable Y:** ```Life Ladder```
-- [Response variable X:](https://github.com/ddxwnny) ```Log GDP per capita```, ```Social support```, ```Healthy life expectancy at birth```, ```Freedom to make life choices``` and ```Positive affect```
+- **[Response variable X:]** ```Log GDP per capita```, ```Social support```, ```Healthy life expectancy at birth```, ```Freedom to make life choices``` and ```Positive affect```
 
 - Splitting the Data sets:
     - ```test_size```: 0.2
@@ -102,7 +102,7 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
     - Measures variance in the dependent variable predictable from the independent variables
     - Higher R² value reduces uncertainty in prediction which increase reliability
 
-3. [Mean Squared Error (MSE):](https://github.com/ddxwnny)
+3. **[Mean Squared Error (MSE):]**
     - The average squared differences between actual and predicted values
     - Lower MSE indicates higher accuracy in predictions
 
