@@ -1,4 +1,4 @@
-# Analysis of happiness index
+![image](https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/164142416/c63e58cb-30d9-47f5-9820-7cb9775d471a)# Analysis of happiness index
 We came across a Straits Time article that states that almost 9 in 10 Singaporeans reported feeling stressed in 2023, and 16 per cent said they felt that the stress was "not manageable", according to a new study by a global health firm.
 
 However, based on UN World Happiness Report 2024, Singapore was crowned the happiest country in Asia for the second year in the row and ranked 30th globally. Curious about how we achieved this even with our fast-paced lifestyle and stressful environment, we decided to explore further.
@@ -147,8 +147,26 @@ However, based on UN World Happiness Report 2024, Singapore was crowned the happ
 ## Conclusion
 ### Overall results
 <img width="644" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/164142416/67266b0a-e35c-4ff0-a55d-48f88508894a">
+Overall, XGBoost performed the best for MSE and explained variance, making it the best model for predicting happiness
 
+#### Important determinants
+1. Log GDP per Capita
+2. Social Support
+3. Healthy life expectancy at birth
 
+#### Best model
+XGBoost
 
+#### Recommendations for the Singapore Government
+**Prioritise on:**
+1. Log GDP per Capita
+   - Maintaining a healthy economy 
+2.  Social Support
+   - Creating a vibrant community and encourage kindness within the society 
+3. Healthy life expectancy at birth
+   - Provide affordable healthcare
+   - Ensure babies & children get the vaccines they need
+
+- When analysing data collected from Singaporeans, they should use XGBoost for a better result
 
 
