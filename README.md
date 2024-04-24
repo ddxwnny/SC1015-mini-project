@@ -3,7 +3,7 @@ We came across a Straits Time article that states that almost 9 in 10 Singaporea
 
 However, based on United Nation World Happiness Report 2024, Singapore was crowned the happiest country in Asia for the second year in the row and ranked 30th globally. Curious about how we achieved this even with our fast-paced lifestyle and stressful environment, we decided to explore further.
 
-## contributers
+## Contributers
 1. Dawn Yap Shi Min ([@ddxwnny](https://github.com/ddxwnny)) - Problem Statement, Data Cleaning, Exploratory Data Analysis (Univariate Linear Regression)
 2. Ng Yun Fei Aries ([@ariessssx](https://github.com/ariessssx)) - Exploratory Data Analysis (Multivariate Linear Regression), XGBoost 
 3. Ong Beng Soon ([@ongbengsoon](https://github.com/ongbengsoon)) - XGBoost, Tensor Flow
@@ -59,8 +59,8 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 - We assume direct linear relationship.
 - As predictors vary, the dependent variable changes directionally.
 
-- Response variable Y: ```Life Ladder```
-- Response variable X: ```Log GDP per capita```, ```Social support```, ```Healthy life expectancy at birth```, ```Freedom to make life choices``` and ```Positive affect```
+- **Response variable Y:** ```Life Ladder```
+- [Response variable X:](https://github.com/ddxwnny) ```Log GDP per capita```, ```Social support```, ```Healthy life expectancy at birth```, ```Freedom to make life choices``` and ```Positive affect```
 
 - Splitting the Data sets:
     - ```test_size```: 0.2
@@ -77,7 +77,7 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 - The scatter plot shows consistent spread of datas for both training and testing sets
 - This indicates that our model is well-fitted and can generalise well to unseen data
 
-### Uniivariate Linear Regression
+### Univariate Linear Regression
 - One predictor variable and One response variable
 - The goal is to find a linear relationship between these two variables
 - Used to rank the significance of the predictors
@@ -90,11 +90,11 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 5. Positive affect & life ladder
 
 #### Metrics used for goodness of fit
-1. Explained Variance (R²):
+1. **Explained Variance (R²):**
     - Measures variance in the dependent variable predictable from the independent variables
     - Higher R² value reduces uncertainty in prediction which increase reliability
 
-3. Mean Squared Error (MSE):
+3. [Mean Squared Error (MSE):](https://github.com/ddxwnny)
     - The average squared differences between actual and predicted values
     - Lower MSE indicates higher accuracy in predictions
 
@@ -111,7 +111,7 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 **Step:** Isolate and focus on the three key predictors for the next iteration of the model.
 **Objective:** To see if refining the model helps to improve the prediction accuracy. 
 
-- Key predictors identified:
+- **Key predictors identified:**
   1. Log GDP per capita
   2. Healthy Life Expectancy at Birth
   3. Social Support
@@ -155,7 +155,7 @@ Overall, XGBoost performed the best for MSE and explained variance, making it th
 3. Healthy life expectancy at birth
 
 #### Best model
-XGBoost
+**XGBoost**
 
 #### Recommendations for the Singapore Government
 **Prioritise on:**
