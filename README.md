@@ -232,4 +232,12 @@ Overall, XGBoost performed the best for MSE and explained variance, making it th
 
 - When analysing data collected from Singaporeans, they should use XGBoost for a better result
 
+## References:
+https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor
+https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam
+https://www.tensorflow.org/js/guide/models_and_layers
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
+https://www.todayonline.com/singapore/sporeans-more-stressed-global-average-16-say-their-stress-not-manageable-study-2294541
+https://happiness-report.s3.amazonaws.com/2024/Ch2+Appendix.pdf
 
