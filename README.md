@@ -147,6 +147,7 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 ## Conclusion
 ### Overall results
 <img width="644" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/164142416/67266b0a-e35c-4ff0-a55d-48f88508894a">
+
 Overall, XGBoost performed the best for MSE and explained variance, making it the best model for predicting happiness
 
 #### Important determinants
