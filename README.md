@@ -21,7 +21,7 @@ However, based on UN World Happiness Report 2024, Singapore was crowned the happ
 4. [Machine Learning] ()
 5. [Conclusion] ()
 
-## Problem statement
+## Problem Statement
 - What are the factors that plays the biggest role for happiness?
 - How can the Singapore Government ensure a happy nation?
 
