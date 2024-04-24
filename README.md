@@ -53,7 +53,23 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 
 ## Exploratory Data Analysis
 1. Heatmap
-2. Individual Box plot, Histogram & Violin plot
+
+<img width="282" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/2c58d549-534a-405a-a05b-f9c8c18348a7">
+
+3. Individual Box plot, Histogram & Violin plot
+
+<img width="454" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/1b92782a-83e8-41fe-b102-e22647eb1228">
+
+<img width="499" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/67db2bd2-a947-44d2-adb4-409805a528ea">
+
+<img width="499" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/827a8d33-23e6-4c66-a2e4-7e2433e5e982">
+
+<img width="499" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/0049ade6-0d68-4af2-b613-2b2c1c1d7069">
+
+<img width="499" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/867ce446-52b0-4161-b2a0-89c969261eda">
+
+<img width="499" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/6522509c-6c57-4955-a15b-daf959f9582d">
+
 
 ### Our observations
 - From the respective box plots, there are quite a number of outliers in all variables
