@@ -98,7 +98,7 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
     - Once trained, we use ```predict()``` to estimate the ```Life Ladder``` variable for both training and testing data
 
 #### Model performance: Training VS Testing
-<img width="274" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/f7dd3fc5-4d19-4f57-942d-320afaa465fd"> <img width="257" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/4f21af75-45d3-4b99-8da8-21716ba0b9bc">
+<img width="274" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/f7dd3fc5-4d19-4f57-942d-320afaa465fd"> <img width="247" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/4f21af75-45d3-4b99-8da8-21716ba0b9bc">
 
  
 - The scatter plot shows consistent spread of datas for both training and testing sets
@@ -111,10 +111,22 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 
 #### Results
 1. Log GDP per capita & life ladder
+<img width="489" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/7e21e7a9-fd67-4e25-91cc-1d80f693ec32">
+<img width="467" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/eb27329f-bf13-473e-a7b6-6991b6328c3e">
+
 2. Social Support & life ladder
+<img width="467" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/9d7d2225-b354-4737-9ec8-2dac43ec3baa">
+<img width="467" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/7780766f-3f6b-4323-aa07-e4f38bb84fb6">
+
+
 3. Healthy life expectancy at birth & life ladder
+<img width="462" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/6830f3a6-5b50-4747-91b2-403c070f8324">
+
 4. Freedom to make life choices & life ladder
+<img width="419" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/2e9d98d8-17f4-4511-a556-caf44a012875">
+ 
 5. Positive affect & life ladder
+<img width="455" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/35250ec6-c03c-474e-b033-fe53995b8217">
 
 #### Metrics used for goodness of fit
 1. **Explained Variance (R²):**
@@ -126,6 +138,8 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
     - Lower MSE indicates higher accuracy in predictions
 
 #### Analysis & ranking
+<img width="599" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/2f9a9621-b580-4893-8127-77f217cbf4c1">
+
 - Similar "Train" and "Test" MSE: Model is not overfitting
 
 1. Log GDP per capita
@@ -143,11 +157,15 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
   2. Healthy Life Expectancy at Birth
   3. Social Support
 
+<img width="435" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/86a0e163-d9bc-407a-a672-fab90aabcbaa">
+
 - comparing using 3 variable using Multivariate Linear Regression
     - There is a consistent spread in the scatter plots for both training and testing sets
     - This consistency indicates that our model is well-fitted and can generalise well to unseen data
 
 #### comparing model performance
+<img width="502" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/4eec16b0-b7e7-494f-8b1b-02843e463e90">
+
 - After the removal of “Freedom to make life choices” and “Positive affect”, the linear regression model fair worse
     - This is indicated by an increase in MSE (Test and Train) and a decrease in Explained Variance (Test and Train)
 - **Final decision:**
@@ -160,6 +178,10 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 - Combine a single weak model with other weak models to make a single strong model which allow for more accurate prediction.
 
 **Results:**
+<img width="407" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/2e408dc9-2238-4c8a-9a83-facb21a821be">
+<img width="541" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/7699c277-9eb0-4300-b2af-b01791af403e">
+
+
 - Best parameters are a learning rate of 0.06, max depth of 7 and n estimators of 100
 - The results are consistent with the MSE & explained variance & it is and well fitted
 
@@ -169,6 +191,10 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 - **Flow:** Used to define the flow of data in an operation. It has many hidden layers and neurons to facilitate deep learning and is efficient in handling complex computations
 
 **Results:**
+<img width="512" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/45e088c9-6a37-4c3c-af52-8df8c743259d">
+<img width="644" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/66010406-563c-4e28-9b50-2ad22f0bb704">
+
+
 - The results are consistent with the MSE & explained variance & it is and well fitted
 
 ## Conclusion
