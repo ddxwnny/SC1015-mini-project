@@ -1,4 +1,4 @@
-#Analysis of happiness index
+# Analysis of happiness index
 We came across a Straits Time article that states that almost 9 in 10 Singaporeans reported feeling stressed in 2023, and 16 per cent said they felt that the stress was "not manageable", according to a new study by a global health firm.
 
 However, based on UN World Happiness Report 2024, Singapore was crowned the happiest country in Asia for the second year in the row and ranked 30th globally. Curious about how we achieved this even with our fast-paced lifestyle and stressful environment, we decided to explore further.
@@ -117,18 +117,36 @@ However, based on UN World Happiness Report 2024, Singapore was crowned the happ
   3. Social Support
 
 - comparing using 3 variable using Multivariate Linear Regression
-    - Here is the code and scatterplot for the multivariate linear regressions with three predictors. There is a consistent spread in the scatter plots for both training and testing sets. This consistency indicates that our model is well-fitted and can generalise well to unseen data.
+    - There is a consistent spread in the scatter plots for both training and testing sets
+    - This consistency indicates that our model is well-fitted and can generalise well to unseen data
 
-
-   
+#### comparing model performance
+- After the removal of “Freedom to make life choices” and “Positive affect”, the linear regression model fair worse
+    - This is indicated by an increase in MSE (Test and Train) and a decrease in Explained Variance (Test and Train)
+- **Final decision:**
+  - We will continue to use all 5 variables when applying other machine models to ensure better performance
 
 ### XGBoost
+- Utilizes gradient-boosted decision tree
+- Similar to the Random Forest
+- Combines multiple machine learning algorithms to obtain a better model
+- Combine a single weak model with other weak models to make a single strong model which allow for more accurate prediction.
 
+**Results:**
+- Best parameters are a learning rate of 0.06, max depth of 7 and n estimators of 100
+- The results are consistent with the MSE & explained variance & it is and well fitted
 
 ### Tensor Flow
+- A framework of machine learning and deep learning models.
+- **Tensor:** A multidimensional array
+- **Flow:** Used to define the flow of data in an operation. It has many hidden layers and neurons to facilitate deep learning and is efficient in handling complex computations
 
+**Results:**
+- The results are consistent with the MSE & explained variance & it is and well fitted
 
 ## Conclusion
+### Overall results
+<img width="644" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/164142416/67266b0a-e35c-4ff0-a55d-48f88508894a">
 
 
 
