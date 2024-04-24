@@ -116,17 +116,24 @@ However, based on United Nation World Happiness Report 2024, Singapore was crown
 
 2. Social Support & life ladder
 <img width="467" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/9d7d2225-b354-4737-9ec8-2dac43ec3baa">
-<img width="467" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/7780766f-3f6b-4323-aa07-e4f38bb84fb6">
+![image](https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/164141697/7e748b22-e511-4b79-8175-cbde89e17f54)
+
 
 
 3. Healthy life expectancy at birth & life ladder
 <img width="462" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/6830f3a6-5b50-4747-91b2-403c070f8324">
+![image](https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/164141697/a1afedbf-0959-4e35-9722-c20b9bdcd3ae)
+
 
 4. Freedom to make life choices & life ladder
 <img width="419" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/2e9d98d8-17f4-4511-a556-caf44a012875">
+![image](https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/164141697/1bfd93fc-0d8b-43a4-b366-6e8893ae4f32)
+
  
 5. Positive affect & life ladder
 <img width="455" alt="image" src="https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/149656787/35250ec6-c03c-474e-b033-fe53995b8217">
+![image](https://github.com/ddxwnny/SC1015_Analysis-of-happiness-index/assets/164141697/ed7e5995-287f-4a5f-a296-0846d677470f)
+
 
 #### Metrics used for goodness of fit
 1. **Explained Variance (R²):**
